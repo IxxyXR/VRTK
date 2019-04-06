@@ -1,7 +1,7 @@
 {
     "name": "com.extendreality.vrtk",
     "displayName": "VRTK - Virtual Reality Toolkit",
-    "version": "4.0.0b",
+    "version": "4.0.0-beta.1",
     "unity": "2018.3",
     "author": "Extend Reality Ltd",
     "description": "A productive toolkit for rapidly building spatial computing solutions in the Unity software.",
